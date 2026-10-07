@@ -2,6 +2,10 @@
 
 A simple, polished FastAPI backend that generates PDF certificates for many recipients in one request.
 
+🚀 **Live Demo:** [Open CertiFlow](https://bulk-certificate-generator-m81pstnrn-sadhiya-zainabs-projects.vercel.app/)
+
+📚 **Swagger API:** [Open Swagger UI](https://bulk-certificate-generator-m81pstnrn-sadhiya-zainabs-projects.vercel.app/docs)
+
 ## Stack
 
 - FastAPI
@@ -132,3 +136,20 @@ It is lightweight, Python-native, and makes a fixed certificate template easy to
 | POST | `/jobs` | Start bulk generation |
 | GET | `/jobs/{job_id}` | Track progress |
 | GET | `/certificates/{recipient_id}/download` | Download PDF |
+
+## 🌐 Live Deployment
+
+| Resource | Link |
+|---|---|
+| 🚀 Live API | [Open Application](https://bulk-certificate-generator-m81pstnrn-sadhiya-zainabs-projects.vercel.app/) |
+| 📚 Swagger UI | [Open API Documentation](https://bulk-certificate-generator-m81pstnrn-sadhiya-zainabs-projects.vercel.app/docs) |
+| 💻 GitHub Repository | [View Source Code](https://github.com/SadhiyaZainabZ/bulk-certificate-generator) |
+
+### Deployment
+
+The application is deployed on Vercel with:
+
+- **Backend:** FastAPI
+- **Database:** Neon PostgreSQL
+- **PDF Generation:** ReportLab
+- **Hosting:** Vercel
