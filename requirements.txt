@@ -6,3 +6,12 @@ email-validator
 reportlab
 pytest
 httpx
+psycopg[binary]
+# fastapi
+# uvicorn[standard]
+# sqlalchemy
+# pydantic
+# email-validator
+# reportlab
+# pytest
+# httpx
