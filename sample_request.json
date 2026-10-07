@@ -1,0 +1,22 @@
+{
+  "event_name": "AI & Innovation Workshop",
+  "event_date": "October 07, 2026",
+  "issuer": "FutureTech Academy",
+  "recipients": [
+    {
+      "name": "Aarav Kumar",
+      "email": "aarav@example.com",
+      "achievement": "for successfully completing the AI & Innovation Workshop"
+    },
+    {
+      "name": "Meera Shah",
+      "email": "meera@example.com",
+      "achievement": "for successfully completing the AI & Innovation Workshop"
+    },
+    {
+      "name": "Rohan Iyer",
+      "email": "rohan@example.com",
+      "achievement": "for successfully completing the AI & Innovation Workshop"
+    }
+  ]
+}
